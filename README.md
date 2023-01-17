@@ -6,7 +6,7 @@ Master of Science in Robotics Engineering at [Worcester Polytechnic Institute](h
 
 **Group Members: -**
 - [Sairam Venkataramani](https://github.com/VictorSairam)
-- [Ravi Teja Alapari]
+- Ravi Teja Alapati
 
 ## Project Description
 
